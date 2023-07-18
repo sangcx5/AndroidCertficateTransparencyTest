@@ -1,1 +1,1 @@
-# Certficate Transparency configure for OkHTTPClient
+Certificate Transparency config for HTTPClient
